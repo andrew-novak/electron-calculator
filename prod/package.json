@@ -1,0 +1,11 @@
+{
+  "name": "desktop-calculator",
+  "productName": "desktop-calculator",
+  "version": "1.0.0",
+  "main": "./bundle/main.prod.js",
+  "author": {
+    "name": "Andrew Novak",
+    "email": "contact@andrewnovak.co.uk"
+  },
+  "scripts": {}
+}
